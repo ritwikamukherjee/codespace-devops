@@ -1,7 +1,7 @@
 # codespace-devops
 This is a Python for DevOps Codespace Repo
 
-## Setup Project
+## Setup CI project using Github Actions
 
 1. Create virtual environment
 ```bash
