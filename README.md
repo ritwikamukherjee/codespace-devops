@@ -13,9 +13,6 @@ source ~/.codespace/bin/activate
 ```bash
 make install
 chmod +x cli.py
-./cli.py --path . --ftype py
-```
-or 
-```bash
+./cli.py --path . --ftype py # or
 ./cli.py --path . --ftype txt
 ```
